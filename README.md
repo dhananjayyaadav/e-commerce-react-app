@@ -5,7 +5,7 @@ A Ecommerce Website made with React.js Framework.
 
 ## Demo
 
-https://e-commerce-react-app-iota.vercel.app/
+https://e-shoppy-dhananjay.vercel.app/
 
 ## Features
 
